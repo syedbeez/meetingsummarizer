@@ -1,0 +1,77 @@
+Average Sentiment: POSITIVE (Score: 0.18)
+Average Sentiment: POSITIVE (Score: 0.18)
+
+Sentence:  Good morning everyone.
+Sentiment: POSITIVE (Score: 0.44)
+
+Sentence: Good morning to everyone.
+Sentiment: POSITIVE (Score: 0.44)
+
+Sentence: Let's kick off with our project updates.
+Sentiment: NEUTRAL (Score: 0.00)
+
+Sentence: We have completed the back-end integration and the new features are working well.
+Sentiment: POSITIVE (Score: 0.27)
+
+Sentence: However, we have hit a few issues with the payment gateway.
+Sentiment: NEUTRAL (Score: 0.00)
+
+Sentence: This problem should be cured quickly.
+Sentiment: NEGATIVE (Score: -0.40)
+
+Sentence: That's great news.
+Sentiment: POSITIVE (Score: 0.62)
+
+Sentence: Do we have a timeline for resolving the payment issues?
+Sentiment: POSITIVE (Score: 0.38)
+
+Sentence: We expect to fix them by the end of the week.
+Sentiment: NEUTRAL (Score: 0.00)
+
+Sentence: We will solve it by the end of Sabatah.
+Sentiment: POSITIVE (Score: 0.20)
+
+Sentence: Regarding testing, we have started on the new features.
+Sentiment: NEUTRAL (Score: 0.00)
+
+Sentence: So far so good.
+Sentiment: POSITIVE (Score: 0.62)
+
+Sentence: But I need more time for the report.
+Sentiment: NEUTRAL (Score: 0.00)
+
+Sentence: I need more time to confirm the security.
+Sentiment: POSITIVE (Score: 0.34)
+
+Sentence: From marketing, we are gearing up for the product launch.
+Sentiment: NEUTRAL (Score: 0.00)
+
+Sentence: Let's kick off the promotional campaign next week.
+Sentiment: NEUTRAL (Score: 0.00)
+
+Sentence: First Sabta, we can start it.
+Sentiment: NEUTRAL (Score: 0.00)
+
+Sentence: Sounds good.
+Sentiment: POSITIVE (Score: 0.44)
+
+Sentence: Let's have all materials ready.
+Sentiment: POSITIVE (Score: 0.36)
+
+Sentence: Any concerns from the team?
+Sentiment: NEUTRAL (Score: 0.00)
+
+Sentence: I think there should be a design review before Launch.
+Sentiment: NEUTRAL (Score: 0.00)
+
+Sentence: Agreed.
+Sentiment: POSITIVE (Score: 0.27)
+
+Sentence: A design review will help catch any last minute issues.
+Sentiment: POSITIVE (Score: 0.40)
+
+Sentence: And let's allocate some time for regression testing after the updates.
+Sentiment: NEUTRAL (Score: 0.00)
+
+Sentence: For regression testing, we should determine time.
+Sentiment: NEUTRAL (Score: 0.00)
